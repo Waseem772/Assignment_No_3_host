@@ -1,0 +1,61 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(223, 238, 95);
+}
+
+
+h1 {
+    margin: 15px;
+    font-size: 45px;
+}
+
+
+label {
+    font-size: larger;
+    margin: 5px;
+}
+
+select , option , input , button{
+    text-align: left;
+    font-size: small;
+    padding: 1px 5px;
+    border: 2px solid black;
+    border-radius: 100px;
+    background-color: rgb(188, 253, 187);
+}
+
+
+input , button{
+    padding: 2px 5px;
+}
+
+    
+#SecondDiv , #thirdDiv{
+    display: inline-block;
+    margin: auto;
+    margin-top: 30px;
+    padding: 5px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+}
+
+.div2
+{
+    border: 1px solid black;
+}
+
+h4{
+    text-align: left;
+    font-size: 25px;
+    margin: 2px 100px 2px 0px;
+}
+
+h2{
+    font-size: xx-large;
+}
+
+
+
